@@ -8,7 +8,7 @@ I'm passionate about technology and the ability it creates to innovate the futur
 
 * 🌍  I'm based in Dallas TX
 * 🚀  I'm currently working on [Mastering Everything React](https://react.dev/)
-* 🧠  I'm learning React Router
+* 🧠  I'm currntly learning React Router
 * ⚡  Fun Facts: Hoops 🏀 and ☕ lover.
 
 ### Skills
